@@ -10,6 +10,12 @@
 
 This project aims to analyze user reviews from **Google Play Store** for various **online lending (pinjaman online / pinjol)** applications in Indonesia. The reviews were scraped using the **Google Play Scraper** by passing the application ID from the Play Store URL, and **1000 newest reviews** were collected for each lending platform.
 
+The list of Indonesia's Lending Platforms :
+- JULO
+- IndoDana
+- Kredivo
+- RupiahCepat
+
 We then performed **text preprocessing** and conducted **Sentiment Analysis** using a **pre-trained BERT model**:  
 [`w11wo/indonesian-roberta-base-sentiment-classifier`](https://huggingface.co/w11wo/indonesian-roberta-base-sentiment-classifier)
 
