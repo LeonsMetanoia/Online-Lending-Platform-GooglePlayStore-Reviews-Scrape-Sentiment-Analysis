@@ -1,5 +1,7 @@
 # 📱 Online Lending Platform Scrape Reviews and  Sentiment Analysis (Google Play Store)
 
+*Tidak ada ajakan untuk melakukan Pinjaman Online (Pinjol) atau merekomendasikan aplikasi atau platform yang ada ⛔
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/58129e6a-0b4f-482a-b3e3-b46c1fb2914f" alt="SelfieSatpamGIF" />
 </p>
@@ -10,7 +12,7 @@
 
 This project aims to analyze user reviews from **Google Play Store** for various **online lending (pinjaman online / pinjol)** applications in Indonesia. The reviews were scraped using the **Google Play Scraper** by passing the application ID from the Play Store URL, and **1000 newest reviews** were collected for each lending platform.
 
-The list of Indonesia's Lending Platforms :
+The list of Indonesia's Online Lending Platforms :
 - JULO
 - IndoDana
 - Kredivo
