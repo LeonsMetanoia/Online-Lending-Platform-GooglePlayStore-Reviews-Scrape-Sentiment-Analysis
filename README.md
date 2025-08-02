@@ -1,4 +1,4 @@
-# 📱 Online Lending Platform Reviews Sentiment Analysis (Google Play Store)
+# 📱 Online Lending Platform Scrape Reviews and  Sentiment Analysis (Google Play Store)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/58129e6a-0b4f-482a-b3e3-b46c1fb2914f" alt="SelfieSatpamGIF" />
